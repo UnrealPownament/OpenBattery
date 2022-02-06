@@ -4,7 +4,7 @@ The data collected will have both practical and didactical purposes, as the ulti
 
 At the moment, i'm focused on building a Fairphone 4 Battery pack, based on the 18650/21700 Lithium Cells.
 
-## Why should anyone ever need such Fat-Phone in their pocket?
+## Why should anyone ever need such a Fat-Phone in their pocket?
 One of the biggest issues about mobiles batteries, is that most of the devices have their own form-factor and pin-out. 
 This implies that batteries cannot be swapped between different devices. Which is not a very sustainable concept, given the humongous usage of Lithium we are making. 
 For such reason i personally think that we should try to standardize our batteries form factors AMAP, in order to avoid waste and reduce costs. 
