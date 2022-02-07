@@ -2,7 +2,7 @@
 This Repository will collect data and informations about the development of open-source battery packs, with a focus on smartphone ones.
 The data collected will have both practical and didactical purposes, as the ultimate goal is to collect the knowledge to develop battery packs from scratch.
 
-At the moment, i'm focused on building a Fairphone 4 Battery pack, based on the 18650/21700 Lithium Cells.
+At the moment, i'm focused on building a Fairphone 4 Battery pack, based on the 18650/21700 Lithium-ion Cells.
 
 ## Why should anyone ever need such a Fat-Phone in their pocket?
 One of the biggest issues about mobiles batteries, is that most of the devices have their own form-factor and pin-out. 
