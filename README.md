@@ -13,6 +13,8 @@ Since the 18650/21700 cells are making their way into the Automotive world, I pe
 
 In the end, a 21700 Lithium Cells battery pack, in 1s2p configuration, will easily provide 4.2V, 8000 mAh, which will make you forget about having a power-bank with you. And if ever needed, you can still have a couple of emergency cells in your backpack to swap them.
 
+![Jake's OpenBattery Phone](https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/Jakes_old_phone.png)
+
 ## How You can help
 As previously mentioned, this repository will collect both practical, and didactical informations about the project. So anyone can participate. You can both share your doubts, your experimental results, or discuss about your ideas.
 
