@@ -4,7 +4,10 @@ The data collected will have both practical and didactical purposes, as the ulti
 
 At the moment, i'm focused on building a Fairphone 4 Battery pack, based on the 18650/21700 Lithium-ion Cells.
 
-![FairPhone 4 - OpenBattery - Flat](https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/FP4rendering_flat_Small.png)
+<p align="center">
+  <img height="250" src="https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/FP4rendering_flat.png" alt="FairPhone 4 - OpenBattery - Flat">
+  <img height="250" src="https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/FP4rendering_open.png" alt="FairPhone 4 - OpenBattery - Open">
+</p>
 
 ## Why should anyone ever need such a Fat-Phone in their pocket?
 One of the biggest issues about mobiles batteries, is that most of the devices have their own form-factor and pin-out. 
@@ -19,7 +22,11 @@ In the end, a 21700 Lithium Cells battery pack, in 1s2p configuration, will easi
 
 ## How You can help
 As previously mentioned, this repository will collect both practical, and didactical informations about the project. So anyone can participate. You can both share your doubts, your experimental results, or discuss about your ideas.
-![Jake's OpenBattery Phone](https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/Jakes_old_phone.png)
+
+<p align="left">
+  <img height="250" src="https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/Jakes_old_phone.png" alt="Jake's OpenBattery Phone">
+</p>
+
 
 ## ⚠️ Disclaimer ⚠️
 OpenBattery is an open source project; feel free to copy, edit, and sell any part of this project. By the way remember that none of the technology on here have been tested or certified as user-safe by any mean.
