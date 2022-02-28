@@ -6,7 +6,7 @@ At the moment, i'm focused on building a Fairphone 4 Battery pack, based on the 
 
 <p align="center">
   <img height="250" src="https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/FP4rendering_flat.png" alt="FairPhone 4 - OpenBattery - Flat">
-  <img height="250" src="https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/FP4rendering_open.png" alt="FairPhone 4 - OpenBattery - Open">
+  <img height="400" src="https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/FP4rendering_open.png" alt="FairPhone 4 - OpenBattery - Open">
 </p>
 
 ## Why should anyone ever need such a Fat-Phone in their pocket?
