@@ -7,6 +7,8 @@ At the moment, i'm focused on building a Fairphone 4 Battery pack, based on the 
 <p align="center">
   <img height="250" src="https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/FP4rendering_flat.png" alt="FairPhone 4 - OpenBattery - Flat">
   <img height="400" src="https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/FP4rendering_open.png" alt="FairPhone 4 - OpenBattery - Open">
+  <img height="400" src="https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/FP4rendering_Battery_Upperside.png" alt="FairPhone 4 - OpenBattery - Upperside">
+  <img height="400" src="https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/FP4rendering_Battery_Lowrside.png" alt="FairPhone 4 - OpenBattery - Lowerside">
 </p>
 
 ## Why should anyone ever need such a Fat-Phone in their pocket?
@@ -18,15 +20,12 @@ Since the 18650/21700 cells are making their way into the Automotive world, I pe
 
 In the end, a 21700 Lithium Cells battery pack, in 1s2p configuration, will easily provide 4.2V, 8000 mAh, which will make you forget about having a power-bank with you. And if ever needed, you can still have a couple of emergency cells in your backpack to swap them.
 
-
-
 ## How You can help
 As previously mentioned, this repository will collect both practical, and didactical informations about the project. So anyone can participate. You can both share your doubts, your experimental results, or discuss about your ideas.
 
 <p align="left">
   <img height="250" src="https://raw.githubusercontent.com/UnrealPownament/OpenBattery/main/images/Jakes_old_phone.png" alt="Jake's OpenBattery Phone">
 </p>
-
 
 ## ⚠️ Disclaimer ⚠️
 OpenBattery is an open source project; feel free to copy, edit, and sell any part of this project. By the way remember that none of the technology on here have been tested or certified as user-safe by any mean.
